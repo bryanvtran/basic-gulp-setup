@@ -1,0 +1,11 @@
+h1 {
+    color: blue;
+}
+
+.flex {
+    display: flex;
+
+    .half {
+        flex: 1;
+    }
+}

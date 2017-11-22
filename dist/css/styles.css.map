@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/_div.scss"],"names":[],"mappings":"AAAA,EAAE,AAAC,CACC,KAAK,CAAE,IAAI,CACd,AAED,KAAK,AAAC,CACF,OAAO,CAAE,IAAI,CADjB,AAGI,AAGH,KANI,CAGD,KAAK,AAAC,CACF,IAAI,CAAE,CAAC,CACV","file":"styles.css","sourcesContent":["h1 {\n    color: blue;\n}\n\n.flex {\n    display: flex;\n\n    .half {\n        flex: 1;\n    }\n}"]}
